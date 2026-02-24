@@ -19,7 +19,7 @@ for x, y in pocet.items():
 
 print(f"unikatne: {unikatne}")
 
-print(f"opakujuci: {opakujuce}")
+print(f"opakujuce: {opakujuce}")
 
 for x, y in pocet.items():
     if y > 1:
